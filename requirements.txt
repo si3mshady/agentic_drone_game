@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+kafka-python
+openai
+openai-agents
+requests
